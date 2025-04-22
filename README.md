@@ -1,7 +1,7 @@
 # AI MSE Submission: Health Risk Classification
-**Name:** [Your Full Name]  
-**Roll No:** [Your Roll Number]  
-**Date:** [Submission Date]  
+Name:AKUL SHARMA  
+Roll No:  202401100300027
+Date:22/04/2025 
 
 ---
 
