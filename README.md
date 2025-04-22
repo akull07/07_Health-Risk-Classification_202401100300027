@@ -49,3 +49,15 @@ BMI (65%)
 Exercise Hours (20%)
 
 Junk Food Frequency (15%)
+📝 Classification Report (Detailed)
+<details> <summary>Click to expand</summary>
+text
+              precision  recall  f1-score  support
+
+         low       0.83    0.83      0.83       12
+      medium       0.69    0.69      0.69       16
+        high       0.77    0.77      0.77       13
+
+    accuracy                           0.76      41
+   macro avg       0.76    0.76      0.76      41
+weighted avg       0.76    0.76      0.76      41
