@@ -25,7 +25,7 @@ X_train = scaler.fit_transform(X_train)
 # Encode labels
 y = y.map({'low':0, 'medium':1, 'high':2})
 2. Model Implementation (Random Forest)
-python
+'''python
 from sklearn.ensemble import RandomForestClassifier
 model = RandomForestClassifier(random_state=42)
 model.fit(X_train, y_train)
